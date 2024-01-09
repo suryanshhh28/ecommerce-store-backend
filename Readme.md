@@ -11,4 +11,6 @@ The codebase follows the `REST architectural style`, offering a clear and standa
 
 The application is structured as a `monolith`, simplifying deployment and maintenance. It is hosted on `render.com`, providing a reliable and scalable hosting platform. The deployment ensures that the APIs and endpoints are live, enabling seamless interaction with the ecommerce platform. Essential packages, such as `Multer` for image storage and CORS for preventing cross-origin issues, contribute to the overall robustness and security of the backend code.🐪
 
+You can find the `Client Side Scripting` on https://github.com/suryanshhh28/ecommerce-store-frontend 🌵🌴🍇
+
 You can expect `API working with /api/v1` on https://ecommerce-store-backend-hkov.onrender.com/ 🐎🧲🕰️
